@@ -34,7 +34,7 @@ Follow these steps to run CosmosAPI locally.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/kullaniciadi/cosmos-api.git
+git clone https://github.com/username/cosmos-api.git
 cd cosmos-api
 ```
 
